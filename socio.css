@@ -396,20 +396,20 @@ html {
 
 .imagem1{
   object-fit: contain;
-  width: 550px;
+  width: 385px;
   height: 400px;
 
 }
 
 .imagem2{
   object-fit: contain;
-  width: 550px;
+  width: 385px;
   height: 400px;
 }
 
 .imagem3{
   object-fit: contain;
-  width: 580px;
+  width: 385px;
   height: 400px;
 }
   }
